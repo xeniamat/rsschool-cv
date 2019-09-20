@@ -1,0 +1,11 @@
+.main{
+    margin: 0 auto;
+    width: 1024px;
+    background-image: url(https://st3.depositphotos.com/1954507/18311/i/450/depositphotos_183115884-stock-photo-set-magical-unicorns-stars-clouds.jpg);
+}
+.content{
+    width: 700px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
